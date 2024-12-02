@@ -1,0 +1,6 @@
+Final distances
+Actual: 3.5 m
+Noisy: ~4.12 m
+
+
+The difference is ~0.62 meters, which shows 17.7% error.
